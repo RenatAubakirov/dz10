@@ -50,5 +50,4 @@ public class Contact {
     public void removePhoneNumber(String phoneNumber) {
         phoneNumbers.remove(phoneNumber);
     }
-
 }
