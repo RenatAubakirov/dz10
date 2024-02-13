@@ -76,4 +76,5 @@ public class PhoneBookMenu {
         String name = scanner.nextLine();
         phoneBook.removeContact(name);
     }
+
 }

@@ -34,6 +34,5 @@ public class PhoneBook {
         for (Contact contact : sortedContacts) {
             System.out.println(contact.getName() + ": " + contact.getPhoneNumbers());
         }
-
     }
 }
